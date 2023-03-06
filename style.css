@@ -1,0 +1,70 @@
+
+
+body {
+  background-color: black;
+  margin:auto;
+  max-width: 100%; 
+}
+
+ .container {
+  background:  linear-gradient(to right, #10149E, #AB1AB9);;
+  border: 2px solid lightgreen;
+  font-size: 25px;
+
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  align-items: left;
+  width: 400px;
+  height: 700px;
+  margin: auto auto auto auto;
+  padding: 10px;
+
+  border-radius: 20px;
+ }
+
+.page-title {
+  font-family: 'arial', sans-serif;
+  color: lightgreen;
+  margin: 40px auto 30px auto;
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+
+ .info {
+
+  margin: 40px auto 40px auto;
+  font-family: 'arial', sans-serif;
+  color: lightgreen;
+  width: 100%;
+  display: block;
+  padding: 2px;
+  text-align: left;
+  text-shadow: black 0.1em 0.1em 0.2em
+ }
+
+
+
+ .caixaDeTxt {
+  font-family: 'arial', sans-serif;
+  font-size: 17.7px;
+  color: lightgreen;
+  width:100%;
+  background-color: rgba(0, 0, 0, .7);
+  display: block;
+  padding: 2px;
+  border: 2px solid lightgreen;
+  margin: 15px auto 15px auto;
+  text-align: center;
+  text-shadow: black 0.1em 0.1em 0.2em
+  
+}
+
+ .butao {
+  font-family: 'arial', sans-serif;
+  margin: 60px auto 10px auto;
+  font-size: 30px;
+  text-shadow: black 0.1em 0.1em 0.2em
+ }
